@@ -1,6 +1,5 @@
 Hi 👋 My name is Shreyas
-========================
-<img display="block" margin-left= "auto" padding-left="19rem" margin-right="auto" width="50%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Shreyas"/>
+=========================
 
 Full Stack Developer
 --------------------
@@ -11,6 +10,8 @@ Full Stack Developer
 * 🧠  I'm learning Angular and Tailwind CSS
 * 🤝  I'm open to collaborating on Web Development Projects
 * ⚡  I'm Secretly Photographer
+
+<img display="block" margin-left= "auto" padding-left="19rem" margin-right="auto" width="50%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Shreyas"/>
 
 ### Skills
 
