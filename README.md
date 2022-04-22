@@ -1,6 +1,7 @@
 Hi 👋 My name is Shreyas
 ========================
 <img align="right" width="200" src="https://miro.medium.com/max/1400/1*TjXUGjDSTAR-H3O2M9M50A.gif" alt="Shreyas"/>
+
 Full Stack Developer
 --------------------
 * 🌍  I'm based in India
