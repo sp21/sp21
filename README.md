@@ -1,6 +1,6 @@
 Hi 👋 My name is Shreyas
 ========================
-<img align="center" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Shreyas" width="100%"/>
+<img align="center" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Shreyas" width="50%" height="50%"/>
 
 Full Stack Developer
 --------------------
