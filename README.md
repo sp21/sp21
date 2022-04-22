@@ -3,7 +3,6 @@ Hi 👋 My name is Shreyas
 
 Full Stack Developer
 --------------------
-<img align="right" width="400" src="https://miro.medium.com/max/1400/1*TjXUGjDSTAR-H3O2M9M50A.gif" alt="Shreyas"/>
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolioproject-959e9.web.app/)
@@ -11,6 +10,8 @@ Full Stack Developer
 * 🧠  I'm learning Angular and Tailwind CSS
 * 🤝  I'm open to collaborating on Web Development Projects
 * ⚡  I'm Secretly Photographer
+
+https://www.olx.in/item/1bhk-apartment-available-in-btm-1st-stage-iid-1683123227
 
 ### Skills
 
