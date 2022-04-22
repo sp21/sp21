@@ -1,5 +1,3 @@
-<img align="center" src="https://miro.medium.com/max/1400/1*TjXUGjDSTAR-H3O2M9M50A.gif" alt="Shreyas">
-
 Hi 👋 My name is Shreyas
 ========================
 
