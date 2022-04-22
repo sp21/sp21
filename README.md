@@ -11,7 +11,7 @@ Full Stack Developer
 * 🤝  I'm open to collaborating on Web Development Projects
 * ⚡  I'm Secretly Photographer
 
-https://www.olx.in/item/1bhk-apartment-available-in-btm-1st-stage-iid-1683123227
+<img align="right" width="300" src="https://miro.medium.com/max/1400/1*TjXUGjDSTAR-H3O2M9M50A.gif" alt="Shreyas"/>
 
 ### Skills
 
